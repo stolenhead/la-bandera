@@ -1,0 +1,16 @@
+*{
+	margin-top: 6px;
+}
+.cajaa{
+	background-color:yellow;
+	height:90px;
+	width: 190px
+}
+.cajab{
+	background-color: red;
+	height:90px;
+	width: 190px;
+}
+p{
+	padding: 10px;
+}

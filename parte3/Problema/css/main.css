@@ -1,0 +1,17 @@
+.cajaa{
+	display: inline-block;
+	height: 90px;
+	width: 170px;
+	background-color: yellow; 
+	margin:6px;
+}
+.cajab{
+     display: inline-block;
+	height: 90px;
+	width: 170px;
+	background-color: red;
+	margin: 4px;
+}
+p{
+	padding-left:9px;
+}
