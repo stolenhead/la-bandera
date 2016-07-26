@@ -3,14 +3,15 @@
 }
 .cajaa{
 	background-color:yellow;
-	height:90px;
-	width: 190px
-}
+	}
 .cajab{
 	background-color: red;
-	height:90px;
-	width: 190px;
-}
-p{
+	}
+div{
 	padding: 10px;
+	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	padding: 10px;
+	box-sizing: border-box;
 }
